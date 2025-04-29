@@ -7,16 +7,19 @@ Um jogo simples desenvolvido no Construct 3 onde você controla um mago de fogo 
 Você controla o Mago de Fogo pelo mapa, que possui dois ataques:
 
 Botão Esquerdo do Mouse: Lança uma bola de fogo 
+
 Botão Direito do Mouse: Dispara um jato de lava
 
 🧙‍♂️ Ataques:
 
 Bola de Fogo:	-1 de saúde do goblin menor e -0.5 de saude goblin maior
+
 Jato de Lava:	-2 saúde do goblin menor e -1 HP do saude maior
 
 🧟‍♂️ Inimigos:
 
 Goblin Menor – 5 de saúde
+
 Goblin Maior – 10 de saúde
 
 🎯 Objetivo:
@@ -26,12 +29,15 @@ Sobreviva o maior tempo possível e derrote o máximo de goblins para obter a ma
 ☁️ Integração com Firebase:
 
 O jogo está conectado com o Firebase, que armazena os dados dos jogadores.
+
 Após o Game Over, será solicitado seu nome.
+
 Seu nome e pontuação são enviados e salvos no banco de dados para fins de ranking e estatísticas futuras.
 
 🚀 Tecnologias Utilizadas:
 
 -Construct 3
+
 -Firebase (Autenticação e Banco de Dados Realtime)
 
 📦 Como Jogar:
@@ -49,9 +55,12 @@ Insira seu nome após o game over para registrar sua pontuação.
 _________________________________________________________________________________________________________
 
 Prints da aplicação: 
+
 ![image](https://github.com/user-attachments/assets/90637a8b-7d4f-448d-8d0f-19ed087daa37)
+
 ![image](https://github.com/user-attachments/assets/46ad02dc-eaea-4ec2-b329-3b39141ec1e0)
 
 Print do banco de dados:
+
 ![image](https://github.com/user-attachments/assets/7f016616-475a-4853-b299-b5ca0f4ffd21)
 
