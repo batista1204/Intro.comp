@@ -1,6 +1,4 @@
-# Intro.comp
-
-🔥 Fire Wizard Survival
+# 🔥 Fire Wizard Survival
 
 Um jogo simples desenvolvido no Construct 3 onde você controla um mago de fogo e precisa sobreviver ao maior número possível de inimigos goblins, ganhando pontos por cada inimigo derrotado.
 
