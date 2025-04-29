@@ -41,5 +41,12 @@ Mova o mago com as setas de movimento.
 Sobreviva o máximo que puder.
 Insira seu nome após o game over para registrar sua pontuação.
 
-![image](https://github.com/user-attachments/assets/067660e5-1b56-4f29-a781-e00b33f4bab8)
+_________________________________________________________________________________________________________
+
+Prints da aplicação: 
+![image](https://github.com/user-attachments/assets/90637a8b-7d4f-448d-8d0f-19ed087daa37)
+![image](https://github.com/user-attachments/assets/46ad02dc-eaea-4ec2-b329-3b39141ec1e0)
+
+Print do banco de dados:
+![image](https://github.com/user-attachments/assets/7f016616-475a-4853-b299-b5ca0f4ffd21)
 
