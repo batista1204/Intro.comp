@@ -36,9 +36,14 @@ Seu nome e pontuação são enviados e salvos no banco de dados para fins de ran
 
 📦 Como Jogar:
 
+Entre no link: https://www.construct.net/en/free-online-games/fire-wizard-survival-76038/play
+
 Clique e mire com os botões do mouse para atacar.
+
 Mova o mago com as setas de movimento.
+
 Sobreviva o máximo que puder.
+
 Insira seu nome após o game over para registrar sua pontuação.
 
 _________________________________________________________________________________________________________
