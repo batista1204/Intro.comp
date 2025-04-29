@@ -40,3 +40,6 @@ Clique e mire com os botões do mouse para atacar.
 Mova o mago com as setas de movimento.
 Sobreviva o máximo que puder.
 Insira seu nome após o game over para registrar sua pontuação.
+
+![image](https://github.com/user-attachments/assets/067660e5-1b56-4f29-a781-e00b33f4bab8)
+
