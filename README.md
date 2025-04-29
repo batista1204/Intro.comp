@@ -14,7 +14,7 @@ Botão Direito do Mouse: Dispara um jato de lava
 
 Bola de Fogo:	-1 de saúde do goblin menor e -0.5 de saude goblin maior
 
-Jato de Lava:	-2 saúde do goblin menor e -1 HP do saude maior
+Jato de Lava:	-2 saúde do goblin menor e -1 de saude do goblin maior
 
 🧟‍♂️ Inimigos:
 
